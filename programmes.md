@@ -64,6 +64,6 @@ TODO
 - https://yadi.sk/i/hwCmja9kb3MgVw
 - https://yadi.sk/i/WHbA141VSw5PLA
 
-## MADE
+## Академия большх данных MADE от VK
 
 TODO
