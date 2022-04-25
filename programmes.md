@@ -65,5 +65,17 @@ TODO
 - https://yadi.sk/i/WHbA141VSw5PLA
 
 ## MADE
+<https://data.vk.company/> 
 
-TODO
+Набор: май - июль
+
+Вступительные экзамены: 
+31 июля - математика
+7 августа - программирование
+31 июля-14 августа - машинное обучение, анкетирование
+15-21 августа - собеседование
+22-31 августа - зачисление
+5 сентября - начало обучения
+
+Материалы для подготовки: <https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf>
+Вариант вступительного экзамена по математике: <https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf>
